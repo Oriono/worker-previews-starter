@@ -24,6 +24,16 @@
 	"previews": {
 		"vars": {
 			"ENVIRONMENT": "preview"
+		},
+		"d1_databases": [
+			{
+				"binding": "DB",
+				"database_id": "36f9d37a-4c63-4c4a-aaad-13086a462a0d",
+				"database_name": "workshop-preview-db"
+			}
+		],
+		"observability": {
+			"enabled": true
 		}
 	}
 }
